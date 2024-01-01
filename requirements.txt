@@ -1,0 +1,7 @@
+boto3==1.26.59
+DateTime==4.9
+gspread==5.7.2
+Pyrogram==2.0.93
+python-dotenv==0.21.1
+TgCrypto==1.2.5
+schedule==1.1.0
